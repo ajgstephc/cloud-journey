@@ -12,3 +12,7 @@
 2 - Continuer le 1er module AWS : Avantages du Cloud AWS, Introduction à l'infrastructure globale AWS, Qu'est-ce que le cloud computing ?
 
 
+22/10/2026
+
+1 - Fin du premier module AWS : Responsabilité partagé AWS, Application des concepts du cloud à des cas d'utilisation de la vie réelle
+
