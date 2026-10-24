@@ -16,3 +16,6 @@
 
 1 - Fin du premier module AWS : Responsabilité partagé AWS, Application des concepts du cloud à des cas d'utilisation de la vie réelle
 
+24/10/2026
+
+1 - Fin de l'intro au module 2 de AWS. (AMI, tarification aws, demo lancement ec2)
