@@ -19,3 +19,7 @@
 24/10/2026
 
 1 - Fin de l'intro au module 2 de AWS. (AMI, tarification aws, demo lancement ec2)
+
+26/10/2026
+
+1 - Module 2 de AWS : Mise à l'echelle d'amazon ec2 et Orientation du traffic avec elastic load balancing.
